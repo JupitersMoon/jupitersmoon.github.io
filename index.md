@@ -4,9 +4,8 @@
 
 You can use the [editor on GitHub](https://github.com/JupitersMoon/jupitersmoon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+### Markdown Index Page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
