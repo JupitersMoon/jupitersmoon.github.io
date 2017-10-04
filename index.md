@@ -1,11 +1,10 @@
 ## Welcome to Steven's GitHub Page!!
 
-
 ## TESTING COMMITS
 
-You can use the [editor on GitHub](https://github.com/JupitersMoon/jupitersmoon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##About Me:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/JupitersMoon/jupitersmoon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### Markdown
 
@@ -13,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+Code snippets go here
 
 # Header 1
 ## Header 2
