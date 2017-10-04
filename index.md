@@ -6,7 +6,6 @@ You can use the [editor on GitHub](https://github.com/JupitersMoon/jupitersmoon.
 
 ### Markdown Index Page
 
-
 ```markdown
 Syntax highlighted code block
 Code snippets go here
