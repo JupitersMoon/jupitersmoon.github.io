@@ -2,12 +2,9 @@
 
 ## About Me:
 
-You can use the [editor on GitHub](https://github.com/JupitersMoon/jupitersmoon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ### Markdown Index Page
 
 ```markdown
-Syntax highlighted code block
 Code snippets go here
 
 # Header 1
@@ -29,4 +26,4 @@ Code snippets go here
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For email inquires, please contact stevencareermail@gmail.com
