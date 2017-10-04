@@ -27,8 +27,6 @@ Code snippets go here
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### YouTube Videos go here:
 
 ### Support or Contact
